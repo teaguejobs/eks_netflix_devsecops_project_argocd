@@ -9,3 +9,4 @@ cat <<EOF
   "api_endpoint": "$api_endpoint"
 }
 EOF
+
